@@ -2,4 +2,4 @@ def hello(n):
     for i in range(n):
         print('Hello new world')
 
-hello(4)
+hello(5)
